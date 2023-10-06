@@ -1,3 +1,4 @@
 /*
    X-Frame-Options: DENY
    Cache-Control: no-cache, no-store, must-revalidate
+   X-Content-Type-Options: nosniff
