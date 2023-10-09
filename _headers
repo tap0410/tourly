@@ -3,5 +3,5 @@
    X-Frame-Options: DENY
    Cache-Control: no-cache, no-store, must-revalidate
    X-Content-Type-Options: nosniff
-   Content-Security-Policy: default-src 'self';
+   Content-Security-Policy: default-src 'self' https://fonts.gstatic.com ;
   
