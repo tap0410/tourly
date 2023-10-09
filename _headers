@@ -1,7 +1,8 @@
 
 /*
    X-Frame-Options: DENY
-   Cache-Control: no-cache, no-store, must-revalidate
    X-Content-Type-Options: nosniff
    Content-Security-Policy: script-src https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js unsafe-inline;
-  
+   Cache-Control: no-cache, no-store, must-revalidate, private
+   Pragma: no-cache
+   Expires: 0
