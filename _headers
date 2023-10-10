@@ -5,5 +5,6 @@
    Cache-Control: no-cache, no-store, must-revalidate
    Pragma: no-cache
    Expires: 0
-   Content-Security-Policy: frame-ancestors 'https://main--celebrated-choux-12b85b.netlify.app/ *';
+   Content-Security-Policy: frame-ancestors 'https://main--celebrated-choux-12b85b.netlify.app/ *'
+   Content-Security-Policy: default-src 'self';
 
